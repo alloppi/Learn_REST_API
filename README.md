@@ -17,3 +17,15 @@
      - Web browser
      - CDN (Cloudflare)
      - In-memory cache (Redis)
+
+## JSON (JavaScript Object Notation)
+1. Use for data exchange from System A to System B
+2. Key value pair quote by "Double-quote"
+   - {"Name":"Alan"}
+3. JSON Data Stucture
+   - Object: {}, nest objects
+   - Array: [], nest arrays
+   - string: ""
+   - number: 0
+   - boolean: true
+   - null
